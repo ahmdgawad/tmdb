@@ -8,7 +8,7 @@
   "actions": [],
   "entryPointV3": "https://raw.githubusercontent.com/ahmdgawad/tmdb/main/plugin.js",
   "languages": {
-    "en": "/en.json"
+    "en": "https://raw.githubusercontent.com/ahmdgawad/tmdb/main/en.json"
   },
   "changeLogs": {
     "1.0.0": "Initial Version"
