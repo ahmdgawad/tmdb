@@ -8,7 +8,7 @@
   "actions": [],
   "entryPointV2": "/plugin.js",
   "languages": {
-    "en": "https://pastebin.com/raw/bjRNuYhT"
+    "en": "/en.json"
   },
   "changeLogs": {
     "1.0.0": "Initial Version"
